@@ -18,7 +18,7 @@ section{
     border-radius: 50%;
     border: 5px solid red; 
     position: relative;
-    background-image: url(https://w7.pngwing.com/pngs/328/892/png-transparent-paper-clock-face-worksheet-printing-clock-angle-white-text.png);
+    background-image: url(https://www.nicepng.com/png/full/81-815586_angka-jam-png-seiko-qxa693w-round-wall-clock.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -30,8 +30,12 @@ section{
     top: 50%;
     left: 50%;
     height: 5px;
-    width: 40%;
+    width: 35%;
     background-color: black;
     transform: rotate(-90deg);
     transform-origin: left;
 }
+.saat{
+    width: 30%;
+}
+
